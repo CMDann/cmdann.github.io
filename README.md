@@ -2,6 +2,16 @@
 
 This is a simple GitHub page I tossed together to try it out. I already have another site at http://dan-blair.ca but I wanted to see what this was all about.
 
+## About
+
+I am Dan, a web and mobile application developer in Winnipeg MB (Canada!). I am the kind of person who gets excited about technology regardless of what it is and I am really passionate about what I do. I focus a lot on open source development making things that help other people but I have also recently started making some fun little games but I am by no stretch of the imagination a full fledged game developer.
+
+I build immersive, virtual, engaging worlds using technologies that you may not expect. Through my recent venture I have been developing solutions that are working their way into virtual reality, gamification, and educational tools.
+
+I enjoy working with Linux and Linux based operating systems such as Android and Firefox OS and I work frequently with Not for profit organizations and help them get set up on this new thing called the internet.
+
+I love technology and I love learning.
+
 ## What is this
 
 https://pages.github.com/
